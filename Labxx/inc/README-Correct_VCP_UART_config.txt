@@ -1,0 +1,2 @@
+Correct_VCP_UART_config.h is the replacement for Main.h in the UART example code from STM Workbench.
+This changes the TX and RX pins from D0 and D1 on the Arduino headers to the Virtual Com Port on ST_Link, enabling UART over the microUSB cable.

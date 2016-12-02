@@ -1,0 +1,5 @@
+inc - user headers
+src - user .c source
+Cleanup_HAL.bat - cleanup script for HAL-based projects
+Compile_HAL.bat - compilation script for HAL-base projects
+Upload.bat - upload script

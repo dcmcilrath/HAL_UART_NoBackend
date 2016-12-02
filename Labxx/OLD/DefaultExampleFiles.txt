@@ -1,0 +1,1 @@
+These are the default example files STM provides for testing UART with the HAL.
